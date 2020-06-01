@@ -1,0 +1,8 @@
+c:\users\pc casa\documents\visual studio 2010\Projects\TestEmotionMining\TestEmotionMining\bin\Debug\TestEmotionMining.dll
+c:\users\pc casa\documents\visual studio 2010\Projects\TestEmotionMining\TestEmotionMining\bin\Debug\TestEmotionMining.pdb
+c:\users\pc casa\documents\visual studio 2010\Projects\TestEmotionMining\TestEmotionMining\obj\Debug\TestEmotionMining.dll
+c:\users\pc casa\documents\visual studio 2010\Projects\TestEmotionMining\TestEmotionMining\obj\Debug\TestEmotionMining.pdb
+C:\Users\PC Casa\Desktop\Aprendendo\IA\Projeto Mineração de Emoçoes\TestEmotionMining\TestEmotionMining\bin\Debug\TestEmotionMining.dll
+C:\Users\PC Casa\Desktop\Aprendendo\IA\Projeto Mineração de Emoçoes\TestEmotionMining\TestEmotionMining\bin\Debug\TestEmotionMining.pdb
+C:\Users\PC Casa\Desktop\Aprendendo\IA\Projeto Mineração de Emoçoes\TestEmotionMining\TestEmotionMining\obj\Debug\TestEmotionMining.dll
+C:\Users\PC Casa\Desktop\Aprendendo\IA\Projeto Mineração de Emoçoes\TestEmotionMining\TestEmotionMining\obj\Debug\TestEmotionMining.pdb

@@ -1,0 +1,21 @@
+c:\users\pc casa\documents\visual studio 2010\Projects\TrainingEmotionMining\TrainingEmotionMining\bin\Debug\TrainingEmotionMining.dll
+c:\users\pc casa\documents\visual studio 2010\Projects\TrainingEmotionMining\TrainingEmotionMining\bin\Debug\TrainingEmotionMining.pdb
+c:\users\pc casa\documents\visual studio 2010\Projects\TrainingEmotionMining\TrainingEmotionMining\bin\Debug\PLN.dll
+c:\users\pc casa\documents\visual studio 2010\Projects\TrainingEmotionMining\TrainingEmotionMining\bin\Debug\PLN.pdb
+c:\users\pc casa\documents\visual studio 2010\Projects\TrainingEmotionMining\TrainingEmotionMining\obj\Debug\TrainingEmotionMining.csprojResolveAssemblyReference.cache
+c:\users\pc casa\documents\visual studio 2010\Projects\TrainingEmotionMining\TrainingEmotionMining\obj\Debug\TrainingEmotionMining.dll
+c:\users\pc casa\documents\visual studio 2010\Projects\TrainingEmotionMining\TrainingEmotionMining\obj\Debug\TrainingEmotionMining.pdb
+C:\Users\PC Casa\Desktop\Aprendendo\IA\Projeto Mineração de Emoçoes\TrainingEmotionMining\TrainingEmotionMining\bin\Debug\TrainingEmotionMining.dll
+C:\Users\PC Casa\Desktop\Aprendendo\IA\Projeto Mineração de Emoçoes\TrainingEmotionMining\TrainingEmotionMining\bin\Debug\TrainingEmotionMining.pdb
+C:\Users\PC Casa\Desktop\Aprendendo\IA\Projeto Mineração de Emoçoes\TrainingEmotionMining\TrainingEmotionMining\bin\Debug\PLN.dll
+C:\Users\PC Casa\Desktop\Aprendendo\IA\Projeto Mineração de Emoçoes\TrainingEmotionMining\TrainingEmotionMining\bin\Debug\PLN.pdb
+C:\Users\PC Casa\Desktop\Aprendendo\IA\Projeto Mineração de Emoçoes\TrainingEmotionMining\TrainingEmotionMining\obj\Debug\TrainingEmotionMining.csprojResolveAssemblyReference.cache
+C:\Users\PC Casa\Desktop\Aprendendo\IA\Projeto Mineração de Emoçoes\TrainingEmotionMining\TrainingEmotionMining\obj\Debug\TrainingEmotionMining.dll
+C:\Users\PC Casa\Desktop\Aprendendo\IA\Projeto Mineração de Emoçoes\TrainingEmotionMining\TrainingEmotionMining\obj\Debug\TrainingEmotionMining.pdb
+C:\Users\PC Casa\Desktop\Aprendendo\IA\Projeto Mineração de Emoçoes\bibliotecas\TrainingEmotionMining\TrainingEmotionMining\bin\Debug\TrainingEmotionMining.dll
+C:\Users\PC Casa\Desktop\Aprendendo\IA\Projeto Mineração de Emoçoes\bibliotecas\TrainingEmotionMining\TrainingEmotionMining\bin\Debug\TrainingEmotionMining.pdb
+C:\Users\PC Casa\Desktop\Aprendendo\IA\Projeto Mineração de Emoçoes\bibliotecas\TrainingEmotionMining\TrainingEmotionMining\bin\Debug\PLN.dll
+C:\Users\PC Casa\Desktop\Aprendendo\IA\Projeto Mineração de Emoçoes\bibliotecas\TrainingEmotionMining\TrainingEmotionMining\bin\Debug\PLN.pdb
+C:\Users\PC Casa\Desktop\Aprendendo\IA\Projeto Mineração de Emoçoes\bibliotecas\TrainingEmotionMining\TrainingEmotionMining\obj\Debug\TrainingEmotionMining.csprojResolveAssemblyReference.cache
+C:\Users\PC Casa\Desktop\Aprendendo\IA\Projeto Mineração de Emoçoes\bibliotecas\TrainingEmotionMining\TrainingEmotionMining\obj\Debug\TrainingEmotionMining.dll
+C:\Users\PC Casa\Desktop\Aprendendo\IA\Projeto Mineração de Emoçoes\bibliotecas\TrainingEmotionMining\TrainingEmotionMining\obj\Debug\TrainingEmotionMining.pdb

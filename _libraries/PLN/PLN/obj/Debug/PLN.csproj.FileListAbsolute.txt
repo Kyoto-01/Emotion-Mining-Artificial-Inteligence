@@ -1,0 +1,12 @@
+c:\users\pc casa\documents\visual studio 2010\Projects\PLN\PLN\bin\Debug\PLN.dll
+c:\users\pc casa\documents\visual studio 2010\Projects\PLN\PLN\bin\Debug\PLN.pdb
+c:\users\pc casa\documents\visual studio 2010\Projects\PLN\PLN\obj\Debug\PLN.dll
+c:\users\pc casa\documents\visual studio 2010\Projects\PLN\PLN\obj\Debug\PLN.pdb
+C:\Users\PC Casa\documents\Visual Studio 2010\Projects\PLN\PLN\obj\Debug\PLN.csprojResolveAssemblyReference.cache
+C:\Users\PC Casa\Desktop\Aprendendo\IA\Projeto Mineração de Emoçoes\bibliotecas\PLN\PLN\bin\Debug\PLN.dll
+C:\Users\PC Casa\Desktop\Aprendendo\IA\Projeto Mineração de Emoçoes\bibliotecas\PLN\PLN\bin\Debug\PLN.pdb
+C:\Users\PC Casa\Desktop\Aprendendo\IA\Projeto Mineração de Emoçoes\bibliotecas\PLN\PLN\obj\Debug\PLN.csprojResolveAssemblyReference.cache
+C:\Users\PC Casa\Desktop\Aprendendo\IA\Projeto Mineração de Emoçoes\bibliotecas\PLN\PLN\obj\Debug\PLN.Properties.Resources.resources
+C:\Users\PC Casa\Desktop\Aprendendo\IA\Projeto Mineração de Emoçoes\bibliotecas\PLN\PLN\obj\Debug\PLN.csproj.GenerateResource.Cache
+C:\Users\PC Casa\Desktop\Aprendendo\IA\Projeto Mineração de Emoçoes\bibliotecas\PLN\PLN\obj\Debug\PLN.dll
+C:\Users\PC Casa\Desktop\Aprendendo\IA\Projeto Mineração de Emoçoes\bibliotecas\PLN\PLN\obj\Debug\PLN.pdb
