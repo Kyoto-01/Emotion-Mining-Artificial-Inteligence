@@ -8,5 +8,4 @@ In this softwre, the input text is pocessed by the PNL.dll methods. The text goe
 In this step, the tokens are added or updated in the database and the Naive Bayes algorithm is made according to the positive and negative quantity of each token. Naive Bayes assigns the positive and negative probability of each token and these probabilities are also saved in the database.
 
 <h2>Test</h2>
-o teste faz o processo PLN no texto e busca as probabilidades positivas, adicionando-as à variável positiva, e negativas, adicionando-as à variável negativa. Após a busca, o valor das variáveis é comparado, atribuindo a emoção contida no texto.
-
+the test does the PLN process in the text and looks for positive probabilities, adding them to the positive variable, and negative ones, adding them to the negative variable. After the search, the value of the variables is compared, attributing the emotion contained in the text.
