@@ -1,0 +1,54 @@
+c:\users\pc casa\documents\visual studio 2010\Projects\TreinoMineracaoDeEmocoes\TreinoMineracaoDeEmocoes\bin\Debug\TreinoMineracaoDeEmocoes.exe
+c:\users\pc casa\documents\visual studio 2010\Projects\TreinoMineracaoDeEmocoes\TreinoMineracaoDeEmocoes\bin\Debug\TreinoMineracaoDeEmocoes.pdb
+c:\users\pc casa\documents\visual studio 2010\Projects\TreinoMineracaoDeEmocoes\TreinoMineracaoDeEmocoes\obj\x86\Debug\TreinoMineracaoDeEmocoes.Form1.resources
+c:\users\pc casa\documents\visual studio 2010\Projects\TreinoMineracaoDeEmocoes\TreinoMineracaoDeEmocoes\obj\x86\Debug\TreinoMineracaoDeEmocoes.Properties.Resources.resources
+c:\users\pc casa\documents\visual studio 2010\Projects\TreinoMineracaoDeEmocoes\TreinoMineracaoDeEmocoes\obj\x86\Debug\TreinoMineracaoDeEmocoes.csproj.GenerateResource.Cache
+c:\users\pc casa\documents\visual studio 2010\Projects\TreinoMineracaoDeEmocoes\TreinoMineracaoDeEmocoes\obj\x86\Debug\TreinoMineracaoDeEmocoes.exe
+c:\users\pc casa\documents\visual studio 2010\Projects\TreinoMineracaoDeEmocoes\TreinoMineracaoDeEmocoes\obj\x86\Debug\TreinoMineracaoDeEmocoes.pdb
+c:\users\pc casa\documents\visual studio 2010\Projects\TreinoMineracaoDeEmocoes\TreinoMineracaoDeEmocoes\bin\Debug\PLN.dll
+c:\users\pc casa\documents\visual studio 2010\Projects\TreinoMineracaoDeEmocoes\TreinoMineracaoDeEmocoes\bin\Debug\TrainingEmotionMining.dll
+c:\users\pc casa\documents\visual studio 2010\Projects\TreinoMineracaoDeEmocoes\TreinoMineracaoDeEmocoes\bin\Debug\PLN.pdb
+c:\users\pc casa\documents\visual studio 2010\Projects\TreinoMineracaoDeEmocoes\TreinoMineracaoDeEmocoes\bin\Debug\TrainingEmotionMining.pdb
+c:\users\pc casa\documents\visual studio 2010\Projects\TreinoMineracaoDeEmocoes\TreinoMineracaoDeEmocoes\obj\x86\Debug\TreinoMineracaoDeEmocoes.csprojResolveAssemblyReference.cache
+C:\Users\PC Casa\Desktop\Aprendendo\IA\Projeto Mineração de Emoçoes\TreinoMineracaoDeEmocoes\TreinoMineracaoDeEmocoes\obj\x86\Debug\TreinoMineracaoDeEmocoes.exe
+C:\Users\PC Casa\Desktop\Aprendendo\IA\Projeto Mineração de Emoçoes\TreinoMineracaoDeEmocoes\TreinoMineracaoDeEmocoes\obj\x86\Debug\TreinoMineracaoDeEmocoes.pdb
+C:\Users\PC Casa\Desktop\Aprendendo\IA\Projeto Mineração de Emoçoes\TreinoMineracaoDeEmocoes\TreinoMineracaoDeEmocoes\bin\Debug\TreinoMineracaoDeEmocoes.exe
+C:\Users\PC Casa\Desktop\Aprendendo\IA\Projeto Mineração de Emoçoes\TreinoMineracaoDeEmocoes\TreinoMineracaoDeEmocoes\bin\Debug\TreinoMineracaoDeEmocoes.pdb
+C:\Users\PC Casa\Desktop\Aprendendo\IA\Projeto Mineração de Emoçoes\TreinoMineracaoDeEmocoes\TreinoMineracaoDeEmocoes\bin\Debug\PLN.pdb
+C:\Users\PC Casa\Desktop\Aprendendo\IA\Projeto Mineração de Emoçoes\TreinoMineracaoDeEmocoes\TreinoMineracaoDeEmocoes\bin\Debug\TrainingEmotionMining.pdb
+C:\Users\PC Casa\Desktop\Aprendendo\IA\Projeto Mineração de Emoçoes\TreinoMineracaoDeEmocoes\TreinoMineracaoDeEmocoes\obj\x86\Debug\TreinoMineracaoDeEmocoes.csprojResolveAssemblyReference.cache
+C:\Users\PC Casa\Desktop\Aprendendo\IA\Projeto Mineração de Emoçoes\TreinoMineracaoDeEmocoes\TreinoMineracaoDeEmocoes\obj\x86\Debug\TreinoMineracaoDeEmocoes.Form1.resources
+C:\Users\PC Casa\Desktop\Aprendendo\IA\Projeto Mineração de Emoçoes\TreinoMineracaoDeEmocoes\TreinoMineracaoDeEmocoes\obj\x86\Debug\TreinoMineracaoDeEmocoes.Properties.Resources.resources
+C:\Users\PC Casa\Desktop\Aprendendo\IA\Projeto Mineração de Emoçoes\TreinoMineracaoDeEmocoes\TreinoMineracaoDeEmocoes\obj\x86\Debug\TreinoMineracaoDeEmocoes.csproj.GenerateResource.Cache
+C:\Users\PC Casa\Desktop\Aprendendo\IA\Projeto Mineração de Emoçoes\TreinoMineracaoDeEmocoes\TreinoMineracaoDeEmocoes\bin\Debug\PLN.dll
+C:\Users\PC Casa\Desktop\Aprendendo\IA\Projeto Mineração de Emoçoes\TreinoMineracaoDeEmocoes\TreinoMineracaoDeEmocoes\bin\Debug\TrainingEmotionMining.dll
+C:\Users\PC Casa\Desktop\Aprendendo\IA\Projeto Mineração de Emoçoes\MineradorDeEmocoes\MineradorDeEmocoes\bin\Debug\treino\treino\obj\x86\Debug\TreinoMineracaoDeEmocoes.exe
+C:\Users\PC Casa\Desktop\Aprendendo\IA\Projeto Mineração de Emoçoes\MineradorDeEmocoes\MineradorDeEmocoes\bin\Debug\treino\treino\obj\x86\Debug\TreinoMineracaoDeEmocoes.pdb
+C:\Users\PC Casa\Desktop\Aprendendo\IA\Projeto Mineração de Emoçoes\MineradorDeEmocoes\MineradorDeEmocoes\bin\Debug\treino\treino\bin\Debug\TreinoMineracaoDeEmocoes.exe
+C:\Users\PC Casa\Desktop\Aprendendo\IA\Projeto Mineração de Emoçoes\MineradorDeEmocoes\MineradorDeEmocoes\bin\Debug\treino\treino\bin\Debug\TreinoMineracaoDeEmocoes.pdb
+C:\Users\PC Casa\Desktop\Aprendendo\IA\Projeto Mineração de Emoçoes\MineradorDeEmocoes\MineradorDeEmocoes\bin\Debug\treino\treino\bin\Debug\PLN.pdb
+C:\Users\PC Casa\Desktop\Aprendendo\IA\Projeto Mineração de Emoçoes\MineradorDeEmocoes\MineradorDeEmocoes\bin\Debug\treino\treino\bin\Debug\TrainingEmotionMining.pdb
+C:\Users\PC Casa\Desktop\Aprendendo\IA\Projeto Mineração de Emoçoes\MineradorDeEmocoes\MineradorDeEmocoes\bin\Debug\treino\treino\obj\x86\Debug\TreinoMineracaoDeEmocoes.csprojResolveAssemblyReference.cache
+C:\Users\PC Casa\Desktop\Aprendendo\IA\Projeto Mineração de Emoçoes\MineradorDeEmocoes\MineradorDeEmocoes\bin\Debug\treino\treino\obj\x86\Debug\TreinoMineracaoDeEmocoes.Form1.resources
+C:\Users\PC Casa\Desktop\Aprendendo\IA\Projeto Mineração de Emoçoes\MineradorDeEmocoes\MineradorDeEmocoes\bin\Debug\treino\treino\obj\x86\Debug\TreinoMineracaoDeEmocoes.Properties.Resources.resources
+C:\Users\PC Casa\Desktop\Aprendendo\IA\Projeto Mineração de Emoçoes\MineradorDeEmocoes\MineradorDeEmocoes\bin\Debug\treino\treino\obj\x86\Debug\TreinoMineracaoDeEmocoes.csproj.GenerateResource.Cache
+C:\Users\PC Casa\Desktop\Aprendendo\IA\Projeto Mineração de Emoçoes\treino\obj\x86\Debug\TreinoMineracaoDeEmocoes.exe
+C:\Users\PC Casa\Desktop\Aprendendo\IA\Projeto Mineração de Emoçoes\treino\obj\x86\Debug\TreinoMineracaoDeEmocoes.pdb
+C:\Users\PC Casa\Desktop\Aprendendo\IA\Projeto Mineração de Emoçoes\treino\bin\Debug\TreinoMineracaoDeEmocoes.exe
+C:\Users\PC Casa\Desktop\Aprendendo\IA\Projeto Mineração de Emoçoes\treino\bin\Debug\TreinoMineracaoDeEmocoes.pdb
+C:\Users\PC Casa\Desktop\Aprendendo\IA\Projeto Mineração de Emoçoes\treino\bin\Debug\PLN.pdb
+C:\Users\PC Casa\Desktop\Aprendendo\IA\Projeto Mineração de Emoçoes\treino\bin\Debug\TrainingEmotionMining.pdb
+C:\Users\PC Casa\Desktop\Aprendendo\IA\Projeto Mineração de Emoçoes\treino\obj\x86\Debug\TreinoMineracaoDeEmocoes.csprojResolveAssemblyReference.cache
+C:\Users\PC Casa\Desktop\Aprendendo\IA\Projeto Mineração de Emoçoes\treino\obj\x86\Debug\TreinoMineracaoDeEmocoes.Form1.resources
+C:\Users\PC Casa\Desktop\Aprendendo\IA\Projeto Mineração de Emoçoes\treino\obj\x86\Debug\TreinoMineracaoDeEmocoes.Properties.Resources.resources
+C:\Users\PC Casa\Desktop\Aprendendo\IA\Projeto Mineração de Emoçoes\treino\obj\x86\Debug\TreinoMineracaoDeEmocoes.csproj.GenerateResource.Cache
+C:\Users\PC Casa\Desktop\FreeCodeCamp\Projeto Mineração de Emoçoes\treino\obj\x86\Debug\TreinoMineracaoDeEmocoes.exe
+C:\Users\PC Casa\Desktop\FreeCodeCamp\Projeto Mineração de Emoçoes\treino\obj\x86\Debug\TreinoMineracaoDeEmocoes.pdb
+C:\Users\PC Casa\Desktop\FreeCodeCamp\Projeto Mineração de Emoçoes\treino\bin\Debug\TreinoMineracaoDeEmocoes.exe
+C:\Users\PC Casa\Desktop\FreeCodeCamp\Projeto Mineração de Emoçoes\treino\bin\Debug\TreinoMineracaoDeEmocoes.pdb
+C:\Users\PC Casa\Desktop\FreeCodeCamp\Projeto Mineração de Emoçoes\treino\bin\Debug\PLN.pdb
+C:\Users\PC Casa\Desktop\FreeCodeCamp\Projeto Mineração de Emoçoes\treino\bin\Debug\TrainingEmotionMining.pdb
+C:\Users\PC Casa\Desktop\FreeCodeCamp\Projeto Mineração de Emoçoes\treino\obj\x86\Debug\TreinoMineracaoDeEmocoes.csprojResolveAssemblyReference.cache
+C:\Users\PC Casa\Desktop\FreeCodeCamp\Projeto Mineração de Emoçoes\treino\obj\x86\Debug\TreinoMineracaoDeEmocoes.Form1.resources
+C:\Users\PC Casa\Desktop\FreeCodeCamp\Projeto Mineração de Emoçoes\treino\obj\x86\Debug\TreinoMineracaoDeEmocoes.Properties.Resources.resources
+C:\Users\PC Casa\Desktop\FreeCodeCamp\Projeto Mineração de Emoçoes\treino\obj\x86\Debug\TreinoMineracaoDeEmocoes.csproj.GenerateResource.Cache
